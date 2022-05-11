@@ -14,7 +14,7 @@ def main():
             explore(path)
 			
 			
-if __name__ == "__main__":
+if __name__="__main__":
     main()
 
             
